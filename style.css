@@ -62,7 +62,7 @@ main{
 .mensaje{
     position: relative;
     background: #ffffff;
-    background-image: url(/imágenes/Muñeco.png);
+    background-image: url(imágenes/Muñeco.png);
     background-repeat: no-repeat;
     border: none;
     background-position: 18px;
